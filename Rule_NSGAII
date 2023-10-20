@@ -1,0 +1,24 @@
+la solution est:
+IF (theme=Transport) and ( duration=00:26:29 ) THEN ( Class 447 )
+  IF (theme=Transport) and ( duration=00:2:20 ) THEN ( Class 487 )
+  IF (theme=Transport) and ( duration=00:10:13 ) THEN ( Class 82 )
+  IF (theme=Historical) and ( duration=00:47:52 ) THEN ( Class 3 )
+  IF (theme=Museum) and ( duration=00:20:45 ) THEN ( Class 395 )
+  IF (theme=Historical) and ( duration=00:24:17 ) THEN ( Class 386 )
+  IF (theme=Museum) and ( duration=00:18:46 ) THEN ( Class 465 )
+  IF (theme=Museum) and ( duration=00:8:7 ) THEN ( Class 15 )
+  IF (theme=Cultural) and ( duration=00:12:32 ) THEN ( Class 323 )
+  IF (theme=Historical) and ( duration=00:38:5 ) THEN ( Class 466 )
+  
+la solution est:
+IF (theme=Transport) and ( duration=00:26:29 ) THEN ( Class 447 )
+  IF (theme=Transport) and ( duration=00:2:20 ) THEN ( Class 487 )
+  IF (theme=Transport) and ( duration=00:10:13 ) THEN ( Class 82 )
+  IF (theme=Historical) and ( duration=00:47:52 ) THEN ( Class 3 )
+  IF (theme=Museum) and ( duration=00:20:45 ) THEN ( Class 395 )
+  IF (theme=Historical) and ( duration=00:24:17 ) THEN ( Class 386 )
+  IF (theme=Museum) and ( duration=00:18:46 ) THEN ( Class 465 )
+  IF (theme=Museum) and ( duration=00:8:7 ) THEN ( Class 15 )
+  IF (theme=Cultural) and ( duration=00:12:32 ) THEN ( Class 323 )
+  IF (theme=Historical) and ( duration=00:38:5 ) THEN ( Class 466 )
+  
